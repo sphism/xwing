@@ -1,2 +1,3 @@
-# xwing
-Xiwing the miniatures game custom 3d printing models
+# X-wing Accessories
+X-wing the miniatures game custom 3d printing models
+
